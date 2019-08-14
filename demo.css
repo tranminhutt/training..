@@ -1,0 +1,8 @@
+#wrapper{width: 900px; background-color: yellow; margin : auto;}
+        #top{width: 900px;background-color: red; height: 100px;}
+        #a2{width: 300px; background-color: blue;height: 300px;float: left;}
+        #a3{width: 300px;background-color: gray; height: 500px;float: left;}
+        #a4{width: 300px;background-color: pink;height: 700px;float: left;}
+        #a5{width: 300px;height: 600px;background-color: green;float: left;}
+        #a6{width:300px;height: 400px;background-color: white;float: left;}
+        #a7{width:300px ;height: 200px ;background-color: brown; float: left;}

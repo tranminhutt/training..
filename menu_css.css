@@ -1,0 +1,11 @@
+		#menu {width: 150px;}
+		a:link ;a:visited { background-color: yellow;
+		color: red;
+		clear: both;
+		display: block;
+		text-decoration: none;
+		margin-bottom: 1px;
+		padding:5px  }
+		a: hover {background-color: blue;}
+
+
